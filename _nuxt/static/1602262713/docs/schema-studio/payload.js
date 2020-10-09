@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/docs/schema-studio", {data:[],fetch:[],mutations:void 0});

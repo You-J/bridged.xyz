@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/docs/bridged-ui", {data:[],fetch:[],mutations:void 0});

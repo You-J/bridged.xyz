@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/docs/typr-lang", {data:[],fetch:[],mutations:void 0});
