@@ -43,3 +43,16 @@ export interface TextTypes {
   style?: CSSProperties;
   value: any;
 }
+
+interface DrawerList {
+  label: string;
+  href: string;
+}
+
+export interface CustomDrawerTypes {
+  anchor: 'top' | 'left' | 'bottom' | 'right';
+  lists: any;
+  open: any;
+  className?: string;
+  toggle: any;
+}
