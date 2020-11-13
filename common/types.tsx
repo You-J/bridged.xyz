@@ -44,6 +44,7 @@ export interface TextTypes {
   value: any;
 }
 
+<<<<<<< HEAD
 interface DrawerList {
   label: string;
   href: string;
@@ -55,4 +56,9 @@ export interface CustomDrawerTypes {
   open: any;
   className?: string;
   toggle: any;
+=======
+export interface XsNavTypes {
+  visible: boolean;
+  setVisible: any;
+>>>>>>> f84867de3cbba6d8b1b854bb4acaac886181de43
 }
